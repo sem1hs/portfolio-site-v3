@@ -24,6 +24,10 @@
   --font-sans: var(--font-sans); /* Inter */
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 html,
 body {
   height: 100%;
