@@ -17,7 +17,7 @@ const projects = [
       "PostgreSQL",
       "Docker",
     ],
-    image: "",
+    image: "/SemihScore.png",
   },
   {
     title: "Biri Pazaryeri Uygulaması",
@@ -31,7 +31,7 @@ const projects = [
       "Kafka",
       "Redis",
     ],
-    image: "",
+    image: "/biri_pazaryeri.jpg",
   },
   {
     title: "Ata Medya Landing Page",
@@ -51,7 +51,7 @@ const projects = [
       "Mikroservis Mimarisi",
       "PostgreSQL",
     ],
-    image: "",
+    image: "/filo_kiralama.png",
   },
 ];
 
